@@ -1,0 +1,18 @@
+.item {
+    margin-bottom: 1.5em;
+    border-radius: 1em;
+    padding: .25em;
+    display: flex;
+    flex-wrap: nowrap;
+    box-shadow: .1em .1em .6em rgba(0, 0, 0, 0.428);
+}
+.item > div {
+    font-size: 1.35em;
+    overflow:hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 1em;
+
+}

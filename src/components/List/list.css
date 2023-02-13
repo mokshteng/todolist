@@ -1,0 +1,8 @@
+.list {
+    padding: .250em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2em;
+}
